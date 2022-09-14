@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Apptor\\Mongoosephp\\": "src/"
+            "Mongoose\\": "src/"
         }
     },
     "authors": [
