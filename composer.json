@@ -1,0 +1,19 @@
+{
+    "name": "apptor/mongoosephp",
+    "description": "Mongoose PHP",
+    "require": {
+        "php": "^8.0",
+        "mongodb/mongodb": "^1.8",
+    },
+    "autoload": {
+        "psr-4": {
+            "Apptor\\Mongoosephp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AppTor Studio",
+            "email": "app@apptor.ru"
+        }
+    ],
+}
