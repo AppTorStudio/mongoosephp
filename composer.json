@@ -6,8 +6,8 @@
         "mongodb/mongodb": "^1.8"
     },
     "autoload": {
-        "psr-0": {
-            "Mongoose": "src/"
+        "psr-4": {
+            "Mongoose\\": "src/"
         }
     },
     "authors": [
