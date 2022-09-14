@@ -3,7 +3,7 @@
     "description": "Mongoose PHP",
     "require": {
         "php": "^8.0",
-        "mongodb/mongodb": "^1.8",
+        "mongodb/mongodb": "^1.8"
     },
     "autoload": {
         "psr-4": {
@@ -15,5 +15,5 @@
             "name": "AppTor Studio",
             "email": "app@apptor.ru"
         }
-    ],
+    ]
 }
